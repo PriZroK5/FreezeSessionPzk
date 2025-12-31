@@ -1,4 +1,4 @@
-# PEZLO SESSION MANAGER v3.0
+# PZK SESSION MANAGER v3.0
 
 ![Version](https://img.shields.io/badge/version-3.0-blue)
 ![Python](https://img.shields.io/badge/python-3.7+-green)
