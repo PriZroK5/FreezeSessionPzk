@@ -25,4 +25,4 @@ cd pezlo-session-manager
 pip install -r requirements.txt
 
 # Запуск программы
-python main.py
+python freeze.py
