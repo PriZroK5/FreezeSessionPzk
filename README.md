@@ -6,7 +6,7 @@
 
 <div align="center">
   
-# 🚀 PEZLO SESSION MANAGER
+# 🚀 PZK SESSION MANAGER
 
 **🔥 Мощный менеджер Telegram-сессий с облачным хранилищем**
 
